@@ -4,6 +4,7 @@ body{
 
 h1 {
   color: white;
-  postition: relativ;
+  position: absolute;
   top: 40%;
+  left: 46%;
 }
